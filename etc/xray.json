@@ -14,7 +14,7 @@
             "streamSettings": {
                 "network": "ws", 
                 "wsSettings": {
-                    "path": "/api-vless"
+                    "path": "/8dd3b855-30c5-442b-b9ad-da6af883bb27-vless"
                 }
             }
         },
@@ -25,7 +25,7 @@
         "clients": [
           {
             "id": "$UUID",
-            "alterId": 64
+            "alterId": 0
           }
         ],
         "disableInsecureEncryption": true
@@ -33,7 +33,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/api-vmess"
+          "path": "/e6a75292-8659-4b4d-a911-b5b95fb698c5-vmess"
         }
       }
     }
